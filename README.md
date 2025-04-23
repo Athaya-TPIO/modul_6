@@ -1,4 +1,7 @@
-# modul_66
+Nama: Athaya Muluq Priadinata
+NIM: 2330305030076
+
+# modul_6
 
 A new Flutter project.
 
