@@ -4,7 +4,7 @@
 
 # Praktikum Pemweb Modul 6
 
-A new Flutter project.
+Kode utama berada di folder lib, dan gambar berada di folder assets/image
 
 ## Getting Started
 
