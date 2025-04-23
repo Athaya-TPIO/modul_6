@@ -2,7 +2,7 @@
 
 # NIM: 2330305030076
 
-# modul_6
+# Praktikum Pemweb Modul 6
 
 A new Flutter project.
 
