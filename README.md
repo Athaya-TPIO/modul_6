@@ -1,4 +1,4 @@
-#N ama: Athaya Muluq Priadinata
+# Nama: Athaya Muluq Priadinata
 
 # NIM: 2330305030076
 
