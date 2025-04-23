@@ -1,5 +1,6 @@
-Nama: Athaya Muluq Priadinata
-NIM: 2330305030076
+#Nama: Athaya Muluq Priadinata
+
+#NIM: 2330305030076
 
 # modul_6
 
